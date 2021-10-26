@@ -1,0 +1,16 @@
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\obj\Debug\net5.0\SOS_GAME.csproj.AssemblyReference.cache
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\obj\Debug\net5.0\SOS_GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\obj\Debug\net5.0\SOS_GAME.AssemblyInfoInputs.cache
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\obj\Debug\net5.0\SOS_GAME.AssemblyInfo.cs
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\obj\Debug\net5.0\SOS_GAME.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\bin\Debug\net5.0\SOS_GAME.exe
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\bin\Debug\net5.0\SOS_GAME.deps.json
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\bin\Debug\net5.0\SOS_GAME.runtimeconfig.json
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\bin\Debug\net5.0\SOS_GAME.runtimeconfig.dev.json
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\bin\Debug\net5.0\SOS_GAME.dll
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\bin\Debug\net5.0\ref\SOS_GAME.dll
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\bin\Debug\net5.0\SOS_GAME.pdb
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\obj\Debug\net5.0\SOS_GAME.dll
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\obj\Debug\net5.0\ref\SOS_GAME.dll
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\obj\Debug\net5.0\SOS_GAME.pdb
+C:\Users\recep\source\repos\SOS_GAME\SOS_GAME\obj\Debug\net5.0\SOS_GAME.genruntimeconfig.cache
